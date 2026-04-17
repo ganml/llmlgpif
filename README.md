@@ -1,6 +1,6 @@
 Code for the following paper:
 
-'''
+```
 @Article{Gan2026b,
   author  = {\textbf{Guojun Gan} and Christopher Shultz},
   journal = {Variance},
